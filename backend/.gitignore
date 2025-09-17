@@ -3,4 +3,3 @@ node_modules/
 inventoryautomationagent-b43393510a84.json
 *.env
 dist/
-/*.json
